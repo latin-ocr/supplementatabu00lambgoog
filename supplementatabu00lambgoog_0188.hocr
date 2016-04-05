@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./supplementatabu00lambgoog_0188.png"; bbox 0 0 3617 4909; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 230 374 1505 797">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 230 374 1505 771">
+     <span class='ocr_line' id='line_1_1' title="bbox 230 374 1505 482; baseline 0.006 -46.034"><span class='ocrx_word' id='word_1_1' title='bbox 230 374 1303 450; x_wconf 50' lang='lat' dir='ltr'>fflststbffistffistfflnafimfflffm</span> <span class='ocrx_word' id='word_1_2' title='bbox 1290 380 1505 482; x_wconf 55' lang='lat' dir='ltr'>Nm*</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 519 384 1505 797; baseline 0.006 -219"><span class='ocrx_word' id='word_1_3' title='bbox 519 384 1505 797; x_wconf 55' lang='lat' dir='ltr'>TAn.vl.NuMEn1P1‹1M1.}</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1814 4909">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1814 4909">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1814 4909; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 0 0 1814 4909; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
